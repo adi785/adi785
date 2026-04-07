@@ -43,14 +43,8 @@ Currently focused on **software development, emerging tech, and product-driven t
 ![OOP](https://img.shields.io/badge/OOP-2196F3?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge)
 
-**Hardware & Embedded Systems**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-9C27B0?style=for-the-badge)
-
 **Soft Skills**  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-4ECDC4?style=for-the-badge)
 ![Rapid Learning](https://img.shields.io/badge/Rapid%20Learning-1ABC9C?style=for-the-badge)
 
 ---
