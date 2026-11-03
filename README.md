@@ -94,13 +94,13 @@ Currently focused on **full-stack engineering, AI/ML applications, and product-d
 ---
 
 ## 📊 GitHub Analytics & Activity
+<b>My GitHub Stats</b>
 
-<div align="center">
+<a href="http://www.github.com/adi785"><img src="https://github-readme-stats.vercel.app/api?username=adi785&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adi785's GitHub stats" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=adi785&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=adi785&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<a href="https://github.com/adi785" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi785&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br/>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi785&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" width="48%" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="48%" />
