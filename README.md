@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Aditya (Mythical_Ace)
+# 👋 Hi, I’m Aditya (Mythical_Ace)
 
-🚀 **Entrepreneur | Software & Hardware Developer | Problem Solver**
+🚀 **Entrepreneur · Software & Hardware Developer · Problem Solver**
 
-I build systems that solve real problems, scale cleanly with logic, and respect engineering fundamentals.  
-Currently focused on **full-stack engineering, AI/ML applications, and product-driven ventures**.
+I build practical systems with a focus on sound engineering, thoughtful architecture, and real-world impact. I’m currently exploring **full-stack engineering, applied AI/ML, and product-driven ventures**.
 
 ---
 
@@ -17,45 +16,44 @@ Currently focused on **full-stack engineering, AI/ML applications, and product-d
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
 - 🎓 **Education:** B.Tech Computer Science & Engineering (Core)
-- 💡 **Passion:** Startups, system architecture, and long-term value creation
-- 🧪 **Focus:** Experimenting at the intersection of **clean code, hardware, and product business models**
-- 🔭 **Currently Working On:** Scalable backend architectures, distributed services, and high-impact web apps
-- 🌱 **Currently Exploring:** Applied AI/ML pipelines (sustainability & agriculture) and advanced system design
-- 📈 **Philosophy:** *"Build skills that compound. Code is leverage. Solve problems that matter."*
+- 💡 **Interests:** Startups, system architecture, and long-term value creation
+- 🔭 **Working on:** Scalable backend systems, distributed services, and useful web applications
+- 🌱 **Exploring:** Applied AI/ML for sustainability and agriculture, and advanced system design
+- 📈 **Guiding principle:** *Build skills that compound. Use code as leverage. Solve problems that matter.*
 
 ---
 
-## 💻 Tech Stack & Tooling
+## 💻 Tech Stack
 
-### 🔹 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔹 Frontend & Backend
+### Frontend & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔹 Databases & Cloud
+### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 🔹 Data Science & Analytics
+### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔹 Core Fundamentals & Tools
+### Tools & Fundamentals
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -67,43 +65,38 @@ Currently focused on **full-stack engineering, AI/ML applications, and product-d
 ## 🧩 Featured Projects
 
 ### 🌾 [KrishiMitr-AI](https://github.com/adi785/krishimitr-ai)
-> **AI-Powered Agricultural Decision Support System**
+> AI-powered agricultural decision support system
 
 - **Tech:** `Python` • `Machine Learning` • `FastAPI` • `Data Analysis`
-- Delivers data-driven actionable insights for precision agriculture and crop optimization.
-- Engineered for high accessibility, field usability, and scalable inference.
+- Provides data-driven insights for precision agriculture and crop optimization.
+- Designed with accessibility, field usability, and scalable inference in mind.
 
 ---
 
 ### 💼 [Prism-ERP](https://github.com/adi785/prism-erp)
-> **Web-Based Accounting & Resource Management Platform**
+> Web-based accounting and resource management platform
 
 - **Tech:** `JavaScript / TypeScript` • `Node.js` • `PostgreSQL / SQL` • `REST APIs`
-- Full-featured accounting platform inspired by Tally Prime workflow semantics.
-- Handles real-time inventory management, multi-ledger voucher handling, and dynamic balance reporting.
+- Accounting workflows inspired by Tally Prime.
+- Supports inventory management, multi-ledger vouchers, and balance reporting.
 
 ---
 
 ### 🖨️ [3D Printing Platform](https://github.com/adi785/3d-printing-platform)
-> **Direct-to-Consumer Custom Fabrication & E-Commerce Hub**
+> Custom fabrication and e-commerce platform
 
 - **Tech:** `Full-Stack Web` • `Interactive UI/UX` • `Cloud Deployment`
-- Dynamic product configuration suite tailored for bespoke 3D-printed hardware items.
-- Bridges hardware manufacturing with seamless digital purchasing and tracking flows.
+- Lets customers configure and order custom 3D-printed products.
+- Connects digital purchasing and order tracking with hardware manufacturing.
 
 ---
 
 ## 📊 GitHub Analytics & Activity
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/adi785"><img src="https://github-readme-stats.vercel.app/api?username=adi785&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adi785's GitHub stats" /></a>
+<div align="center">
 
-<a href="https://github.com/adi785" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi785&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi785&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" width="48%" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="48%" />
+<a href="https://github.com/adi785"><img src="https://github-readme-stats.vercel.app/api?username=adi785&show_icons=true&hide=stars&count_private=true&theme=tokyonight&hide_border=true" alt="Aditya’s GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi785&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 
 </div>
 
@@ -111,15 +104,15 @@ Currently focused on **full-stack engineering, AI/ML applications, and product-d
 
 ## 🏆 What Sets Me Apart
 
-- **Full-Stack Systems Thinker:** Seamless navigation between code, databases, cloud, and physical hardware.
-- **Product & Business First:** Code written with user traction, architecture longevity, and clear ROI in mind.
-- **Velocity & Discipline:** Rapid prototyping without compromising core software engineering standards.
+- **Full-stack perspective:** Comfortable working across code, databases, cloud services, and physical hardware.
+- **Product-minded:** Focused on user needs, maintainable architecture, and practical outcomes.
+- **Thoughtful execution:** Rapid prototyping without losing sight of engineering fundamentals.
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-I am open to **software engineering roles, innovative startup builds, open-source collaborations, and tech advisory**.
+I’m open to **software engineering opportunities, startup projects, open-source collaboration, and technical advising**.
 
 <p align="left">
   <a href="https://linkedin.com/in/aditya-falor1655" target="_blank">
